@@ -14,7 +14,7 @@ Encadré par :
 ## Droits
 
 ### Fichiers présent dans le dossier `sources/`
-Les fichiers du solveur mini SAT doivent être utilisés selon les règles suivante imposées par les créateurs :
+Les fichiers du solveur mini SAT doivent être utilisés selon les règles suivantes imposées par les créateurs :
 
 ```
 including without limitation the rights to use, copy, modify, merge, publish, distribute,
@@ -36,7 +36,7 @@ Tous les autres fichiers ou parties de code peuvent être utilisés, modifiés, 
 
 ### Le rapport 
 
-L'usage doit respecter strictement la [license by-nc-nd 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/fr/)
+L'usage du rapport doit respecter strictement la [license by-nc-nd 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/fr/)
 
 ## Utilisation
 
@@ -44,7 +44,7 @@ Ce projet est fais pour être utilisé sur un OS de type *Linux*
 
 Une fois les sources rappatriées sur votre ordinateur, assurez vous que les librairies *freeglut3-dev* et *zlib1g-dev* soient installées.
 
-Ouvrer un terminal dans le répertoire `sources/` :
+Ouvrez un terminal dans le répertoire `sources/` :
 
 Tapez les commandes suivantes pour compiler, créer l'executable, et lancer le jeu :
 ``` bash
@@ -52,7 +52,7 @@ make
 ./exe &
 ```
 
-L'éxécutable ne doit pas être déplacer pour fonctionner. Si vous voulez créer un lien sur votre Bureau taper la commande suivante :
+L'éxécutable ne doit pas être déplacé pour fonctionner. Si vous voulez créer un lien sur votre Bureau taper la commande suivante :
 ``` bash
 ln -s exe ~/Desktop/ShaMata
 ```
