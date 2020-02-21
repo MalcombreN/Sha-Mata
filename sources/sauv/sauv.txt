@@ -1,0 +1,36 @@
+terrain - 1
+joueur - 1
+vivante :
+case - 8	joueur - 1	move - 0	pion
+case - 9	joueur - 1	move - 0	pion
+case - 10	joueur - 1	move - 0	pion
+case - 11	joueur - 1	move - 0	pion
+case - 12	joueur - 1	move - 0	pion
+case - 13	joueur - 1	move - 0	pion
+case - 14	joueur - 1	move - 0	pion
+case - 15	joueur - 1	move - 0	pion
+case - 0	joueur - 1	move - 0	tour
+case - 7	joueur - 1	move - 0	tour
+case - 1	joueur - 1	move - 0	cavalier
+case - 6	joueur - 1	move - 0	cavalier
+case - 2	joueur - 1	move - 0	fou
+case - 5	joueur - 1	move - 0	fou
+case - 3	joueur - 1	move - 0	reine
+case - 4	joueur - 1	move - 0	roi
+case - 48	joueur - 0	move - 0	pion
+case - 49	joueur - 0	move - 0	pion
+case - 50	joueur - 0	move - 0	pion
+case - 51	joueur - 0	move - 0	pion
+case - 52	joueur - 0	move - 0	pion
+case - 53	joueur - 0	move - 0	pion
+case - 54	joueur - 0	move - 0	pion
+case - 55	joueur - 0	move - 0	pion
+case - 56	joueur - 0	move - 0	tour
+case - 63	joueur - 0	move - 0	tour
+case - 57	joueur - 0	move - 0	cavalier
+case - 62	joueur - 0	move - 0	cavalier
+case - 58	joueur - 0	move - 0	fou
+case - 61	joueur - 0	move - 0	fou
+case - 60	joueur - 0	move - 0	reine
+case - 59	joueur - 0	move - 0	roi
+morte :
