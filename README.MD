@@ -2,9 +2,9 @@
 
 ## Présentation
 
-Projet de fin de licence 3 fais à l'université d'Angers
+Projet de fin de licence 3 fait à l'université d'Angers
 
-Réalise par :
+Réalisé par :
 - MA Tianning
 - MALCOMBRE Nicolas
 
@@ -40,9 +40,9 @@ L'usage du rapport doit respecter strictement la [license by-nc-nd 2.0](https://
 
 ## Utilisation
 
-Ce projet est fais pour être utilisé sur un OS de type *Linux*
+Ce projet est fait pour être utilisé sur un OS de type *Linux*
 
-Une fois les sources rappatriées sur votre ordinateur, assurez vous que les librairies *freeglut3-dev* et *zlib1g-dev* soient installées.
+Une fois les sources rapatriées sur votre ordinateur, assurez-vous que les librairies *freeglut3-dev* et *zlib1g-dev* soient installées.
 
 Ouvrez un terminal dans le répertoire `sources/` :
 
@@ -52,7 +52,7 @@ make
 ./exe &
 ```
 
-L'éxécutable ne doit pas être déplacé pour fonctionner. Si vous voulez créer un lien sur votre Bureau taper la commande suivante :
+L'exécutable ne doit pas être déplacé pour fonctionner. Si vous voulez créer un lien sur votre Bureau, tapez la commande suivante :
 ``` bash
 ln -s exe ~/Desktop/ShaMata
 ```
